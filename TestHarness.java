@@ -2,10 +2,8 @@ package testing;
 
 import priority.*;
 import java.util.NoSuchElementException;
-/* COSC 1P03
- * ASSIGNMENT #3
+/* 
  * Name: (Karanjot Pabla)
- * Student #: (6231377)
  */
 public class TestHarness {
  
