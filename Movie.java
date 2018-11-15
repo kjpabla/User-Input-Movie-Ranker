@@ -1,10 +1,8 @@
 package testing;
 
 import priority.*;
-/* COSC 1P03
- * ASSIGNMENT #3
+/*
  * Name: (Karanjot Pabla)
- * Student #: (6231377)
  */
 public class Movie implements Prioritized<Movie> {
  private String title;
